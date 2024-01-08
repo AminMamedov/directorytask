@@ -1,0 +1,14 @@
+C:\Users\A055\source\repos\producttask\producttask\bin\Debug\net6.0\producttask.exe
+C:\Users\A055\source\repos\producttask\producttask\bin\Debug\net6.0\producttask.deps.json
+C:\Users\A055\source\repos\producttask\producttask\bin\Debug\net6.0\producttask.runtimeconfig.json
+C:\Users\A055\source\repos\producttask\producttask\bin\Debug\net6.0\producttask.dll
+C:\Users\A055\source\repos\producttask\producttask\bin\Debug\net6.0\producttask.pdb
+C:\Users\A055\source\repos\producttask\producttask\obj\Debug\net6.0\producttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A055\source\repos\producttask\producttask\obj\Debug\net6.0\producttask.AssemblyInfoInputs.cache
+C:\Users\A055\source\repos\producttask\producttask\obj\Debug\net6.0\producttask.AssemblyInfo.cs
+C:\Users\A055\source\repos\producttask\producttask\obj\Debug\net6.0\producttask.csproj.CoreCompileInputs.cache
+C:\Users\A055\source\repos\producttask\producttask\obj\Debug\net6.0\producttask.dll
+C:\Users\A055\source\repos\producttask\producttask\obj\Debug\net6.0\refint\producttask.dll
+C:\Users\A055\source\repos\producttask\producttask\obj\Debug\net6.0\producttask.pdb
+C:\Users\A055\source\repos\producttask\producttask\obj\Debug\net6.0\producttask.genruntimeconfig.cache
+C:\Users\A055\source\repos\producttask\producttask\obj\Debug\net6.0\ref\producttask.dll

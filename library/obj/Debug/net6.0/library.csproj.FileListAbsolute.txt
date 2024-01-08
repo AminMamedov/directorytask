@@ -1,0 +1,11 @@
+C:\Users\A055\source\repos\producttask\library\bin\Debug\net6.0\library.deps.json
+C:\Users\A055\source\repos\producttask\library\bin\Debug\net6.0\library.dll
+C:\Users\A055\source\repos\producttask\library\bin\Debug\net6.0\library.pdb
+C:\Users\A055\source\repos\producttask\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A055\source\repos\producttask\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\A055\source\repos\producttask\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\A055\source\repos\producttask\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\A055\source\repos\producttask\library\obj\Debug\net6.0\library.dll
+C:\Users\A055\source\repos\producttask\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\A055\source\repos\producttask\library\obj\Debug\net6.0\library.pdb
+C:\Users\A055\source\repos\producttask\library\obj\Debug\net6.0\ref\library.dll
